@@ -62,6 +62,7 @@ a {
   color: #fff;
 }
 .btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -96,6 +97,9 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+.team-item {
+  background-color: #fff;
 }
 .team-img {
   background-color: url('path_to_image');
