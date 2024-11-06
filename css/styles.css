@@ -12,6 +12,7 @@ ol {
 a {
   text-decoration: none;
 }
+/* #region Header */
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -49,7 +50,8 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-
+/* #endregion Header */
+/* #region Hero */
 .hero-section {
   background-color: #2e2f42;
 }
@@ -75,7 +77,8 @@ a {
 .btn:focus {
   background-color: #404bbf;
 }
-
+/* #endregion Hero */
+/* #region Advantages */
 .advantages-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -89,6 +92,8 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* #endregion Advantages */
+/* #region team */
 .team-section {
   background-color: #f4f4fd;
 }
@@ -122,6 +127,8 @@ a {
   text-align: center;
   color: #434455;
 }
+/* #endregion team */
+/* #region Portfolio */
 .portfolio-title {
   text-transform: capitalize;
   font-weight: 700;
@@ -147,6 +154,9 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* #endregion Portfolio */
+/* #region Footer */
+
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
@@ -159,3 +169,4 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+/* #endregion Footer */
